@@ -2,7 +2,7 @@
 
 **Struktur Package & Module**
 
-
+![page](assets/img/file.png)
 
 **Penjelasan:**
 
