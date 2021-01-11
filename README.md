@@ -100,3 +100,25 @@ while True:
 **Output:**
 
 Tambah data
+
+![tambah](assets/img/1.png)
+
+
+Ubah data
+
+![output-praktikum-5](assets/img/2.png)
+
+
+Lihat data
+
+![output-praktikum-5](assets/img/3.png)
+
+
+Cari data
+
+![output-praktikum-5](assets/img/4.png)
+
+
+Hapus data
+
+![output-praktikum-5](assets/img/5.png)
