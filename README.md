@@ -101,24 +101,24 @@ while True:
 
 Tambah data
 
-![tambah](assets/img/1.png)
+![1](assets/img/1.png)
 
 
 Ubah data
 
-![output-praktikum-5](assets/img/2.png)
+![2](assets/img/2.png)
 
 
 Lihat data
 
-![output-praktikum-5](assets/img/3.png)
+![3](assets/img/3.png)
 
 
 Cari data
 
-![output-praktikum-5](assets/img/4.png)
+![4](assets/img/4.png)
 
 
 Hapus data
 
-![output-praktikum-5](assets/img/5.png)
+![5](assets/img/5.png)
