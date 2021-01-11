@@ -101,24 +101,24 @@ while True:
 
 Tambah data
 
-![page](assets/img/1.png)
+![page](assets/img/1.PNG)
 
 
 Ubah data
 
-![page](assets/img/2.png)
+![page](assets/img/2.PNG)
 
 
 Lihat data
 
-![page](assets/img/3.png)
+![page](assets/img/3.PNG)
 
 
 Cari data
 
-![page](assets/img/4.png)
+![page](assets/img/4.PNG)
 
 
 Hapus data
 
-![page](assets/img/5.png)
+![page](assets/img/5.PNG)
